@@ -1,0 +1,6 @@
+{
+  "name": "포레스트 힐 (ForestHeal) - 산림휴양 & 산림치유 포털",
+  "description": "전국 국립·공립 자연휴양림과 치유의 숲 탐색, AI 맞춤형 산림치유 처방전, 실시간 숲 소리 사운드스케이프, 4-7-8 피톤치드 호흡 가이드 및 산림치유 여정을 위한 통합 힐링 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
